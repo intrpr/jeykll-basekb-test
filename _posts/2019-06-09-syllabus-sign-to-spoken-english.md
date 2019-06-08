@@ -8,24 +8,24 @@ type: Document
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat:
 
-##Sign to Spoken English Interpreting (ASL 3370)
+## Sign to Spoken English Interpreting (ASL 3370)
 
 >I am not currently teaching Sign to Spoken English Interpreting (ASL3370) this semester. Please note: All information currently available on this site represents work and due dates relevant to a previous semester/course. Please check back during later semesters for updated information on this course. Thank you.
 
-###Instructor and Class Times
+### Instructor and Class Times
 Instructor: Doug Stringham
 Class Period: TR 7:00–8:40 pm, LA 230
 E-mail: dstringham (at) gmail.com
-######(You may contact me at any time via e-mail or by arranging a meeting time before or after class. Please no phone calls.)
+###### (You may contact me at any time via e-mail or by arranging a meeting time before or after class. Please no phone calls.)
 
-###Required Texts
+### Required Texts
 Please bring your text, handouts, and notetaking materials to class each day.
 * (Required) Although not a “text,” you’ll need a GoREACT account to store/display video of your assignments, exams, and lab work. If you don’t have an account, sign up for a GoREACT account right now.
 * Video texts from Patrie, C. (2004). Effective Interpreting series: ASL Skills Development. San Diego: DawnSign Press. Readings, class discussions, postings, and lab assignments will be taken primarily from this volume. (Unfortunately, this class text is only available in limited distribution; available from UVU Bookstore, DawnSign Press, or Harris Communications.)
 * Student handouts containing resources, class assignments, and instructor-selected supplemental readings. Available from the class schedule and/or passed out in class, these may be distributed on an infrequent basis. These handouts are important; exam materials will also come from these resources.
 Available in the UVU bookstore or on the Internet at a variety of online bookstores and resellers. See class schedule for links.
 
-###How is my work evaluated? (or, in other words, “How do I get an A?”)
+### How is my work evaluated? (or, in other words, “How do I get an A?”)
 Please note: This is a skill-based class; final grades are based on your 1) participation and 2) your demonstrated signing acumen and ability; this is a main reason for having a pre- and post-/final assessment. Yes, we spend time learning about contemporary interpretation and spoken language theory and yes, you should implant that in your archival memory.
 
 Your final grade, however, is not based on your perception of nor what you think about your acumen and ability, it is based on your demonstrated ability to produce equivalent signed-to-spoken-English work.
@@ -42,18 +42,18 @@ While some portions of your coursework and exams will test for specific factual 
 
 Scoring criteria are clearly defined on assignment handouts or exams; you’ll know what you need to do to earn the grade you want. Ultimately, your grade is a reflection of personal effort and internalization of concepts learned in the course.
 
-###Grading Breakdown
+### Grading Breakdown
 A  100–93	B+ 89–87	C+ 79–77	D+ 69–67	E  59–0
 A- 92–90	B  86–83	C  76–73	D  66–63	
 B- 82–80	C- 72–70	D- 62–60	
 
-###College Policies and Students with Disabilities
+### College Policies and Students with Disabilities
 * College policy prohibits children in the classroom or children unattended in the halls. Make whatever arrangements you must in order to comply with this policy.
 * Failure to come to class does not constitute withdrawal from the course. If circumstances make it impossible for you to complete this course, then you must officially withdraw. Otherwise, you may receive a grade at the end of the semester you did not intend.
 * If you have any disability which may impair your ability to successfully complete this course, please contact the Accessibility Services Department (WB 146, 863-8747). Academic accommodations are granted for all students who have qualified documented disabilities. Services are coordinated with the student and instructor by the Accessibility Services Department.
 
-###Course Requirements and Expectations
-####These are the instructor’s expectations of you:
+### Course Requirements and Expectations
+#### These are the instructor’s expectations of you:
 
 1. Become BFF with technology. Current technologies enable our cognition and communication; you’ll need to familiarize yourself with:
 	* the ASL department language lab’s capabilities (video/audio capture, file transfer, etc.) or obtain consistent access to a digital video camera where you can retrieve files and upload them to
@@ -70,7 +70,7 @@ B- 82–80	C- 72–70	D- 62–60
 5. Academic Integrity. Your assignments and classwork are graded on an honor system; completing classwork indicates that you have studied and made a serious attempt to complete an assignment. Note: cheating, plagiarism, or any dishonest work violates this honor system as well as UVU policy will result in the automatic failure of the assignment and/or the course. Further punishment(s) for cheating will also be given by college administrators.
 6. Class attendance is important and necessary. Because this class is only held for 75 minutes twice a week, it is, of necessity, faster-paced. When you miss a class, you are responsible for all materials presented, i.e. lecture notes, changes in class schedule, and assignments. If you’re unable to submit an assignment, I urge you to figure out an alternative method for submitting the assignment. If there are compelling circumstances, let’s talk about it.
 
-####This is what you may expect of the instructor:
+#### This is what you may expect of the instructor:
 * The instructor will not waste your time. You are spending at least 10% of your day (and however much more outside of class) and a fair amount of tuition to learn these principles, data, and connections to y/our profession. That is a great deal of trust and the instructor takes this seriously. I consider our time together as an investment, not a check on a list.
 * The instructor will be fair. There are no preconceived notions about the skills, abilities, and knowledge that students individually bring into the class community. Indeed, grades are given based on merit progress up (or down) one’s own scale.
 * The instructor will evaluate each student on his or her own merits. As such, grades on curves or comparisons to other students are counterproductive and set false standards. If you earned an 85, you will receive an 85, not an interpretation of someone else’s 85.
@@ -79,4 +79,4 @@ B- 82–80	C- 72–70	D- 62–60
 	* Interpretation is a emotionally and physically demanding (and sometimes draining) profession; developing the ability to accept discussion and formative feedback about your work is a recommended goal at this stage in your training. In the spirit of respectful treatment, this also means that evaluations and/or offline discussions of inaccurate, inequivalent, or substandard performance are also open for collegial dialog. This is a great opportunity to receive (somewhat) mentored, external, and professional observations of your work.
 	* This also means, however, that while students can expect in-class feedback on produced work, there isn’t sufficient time to provide diagnostic-level feedback on each assignment, every time.
 
-*Fall 2018* Full disclosure: I may have out-of-state travel responsibilities I am fulfilling this semester. I will inform you about these absences and we will work out contingencies. Thank you in advance for your patience.
+*Spring 2020* Full disclosure: I may have out-of-state travel responsibilities I am fulfilling this semester. I will inform you about these absences and we will work out contingencies. Thank you in advance for your patience.
