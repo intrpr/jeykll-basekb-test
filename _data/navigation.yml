@@ -1,6 +1,10 @@
-- name: Tutorials
-  link: /
-- name: Videos
-  link: /videos/
-- name: FAQ
-  link: /faq/
+- name: Feed
+  link: /feed/
+- name: Library
+  link: /library/
+- name: Action Plans
+  link: /actionplans/
+- name: Classrooms
+  link: /classrooms/
+- name: Classes
+  link: /classes/
