@@ -1,6 +1,6 @@
 ---
 date: 2019-06-08
-title: Syllabus
+title: Introduction
 categories:
   - Sign-to-Spoken English
 description: "Sign to Spoken English Interpreting (ASL 3370)"
