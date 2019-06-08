@@ -17,13 +17,13 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 * Based on what we read in Witter-Merrithew and Colonomos, how can we measure equivalency and accuracy in our transliterations?
 
 ##### Readings/Discussions
-[Feedback: A Conversation about ‘The Work’ Between Learners and Colleagues (Witter-Merithew)](http://) Required
+#### [Feedback: A Conversation about ‘The Work’ Between Learners and Colleagues (Witter-Merithew)](http://) Required
 This article contains an unpublished article (2001) by Anna Witter-Merithew, Director of the Mid-America Regional Interpreter Education Center (MARIE) and a former assistant director of the [DoIT Center (now Department of American Sign Language and Interpreting Studies](http://)) at the University of Northern Colorado, regarding how we have historically spoken about interpreting work and posits a new paradigm of discussion.
 [Text/HTML version](http://) of “Feedback: A Conversation about ‘The Work’...”
 
 ***
 
-[Non-evaluative feedback language](http://) (Colonomos) Required
+#### [Non-evaluative feedback language](http://) (Colonomos) Required
 Colonomos’ “yellow sheet.” Simple yet essential recontexting of feedback language we use with interpreter colleagues. To be used in class discussions and interpretive work processing. Live it. Love it. Learn it. (Don’t download this unless you lose the yellow copy handed out in class.)
 
 ***
