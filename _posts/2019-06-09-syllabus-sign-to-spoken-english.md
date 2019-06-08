@@ -6,7 +6,7 @@ categories:
 description: "Sign to Spoken English Interpreting (ASL 3370)"
 type: Document
 ---
-## Sign to Spoken English Interpreting (ASL 3370)
+## Sign to Spoken English Interpreting
 
 >I am not currently teaching Sign to Spoken English Interpreting (ASL3370) this semester. Please note: All information currently available on this site represents work and due dates relevant to a previous semester/course. Please check back during later semesters for updated information on this course. Thank you.
 
@@ -19,7 +19,7 @@ E-mail: dstringham (at) gmail.com
 ### Required Texts
 Please bring your text, handouts, and notetaking materials to class each day.
 * **(Required)** Although not a “text,” you’ll need a [GoREACT](https://goreact.com/signing) account to store/display video of your assignments, exams, and lab work. If you don’t have an account, [sign up for a GoREACT account](https://goreact.com/#/signup?first=&last=&email=) right now.
-* Video texts from Patrie, C. (2004). Effective Interpreting series: ASL Skills Development. San Diego: DawnSign Press. Readings, class discussions, postings, and lab assignments will be taken primarily from this volume. (Unfortunately, this class text is only available in limited distribution; available from [UVU Bookstore](http://bookstore.uvu.edu/SelectTermDept.aspx), [DawnSign Press](http://www.dawnsign.com/effective-interpreting-asl-skills-development-study-set), or [Harris Communications](http://www.harriscomm.com/index.php/effective-interpreting-asl-skills-development-study-set.html).)
+* Video texts from Patrie, C. (2004). *Effective Interpreting series: ASL Skills Development*. San Diego: DawnSign Press. Readings, class discussions, postings, and lab assignments will be taken primarily from this volume. (Unfortunately, this class text is only available in limited distribution; available from [UVU Bookstore](http://bookstore.uvu.edu/SelectTermDept.aspx), [DawnSign Press](http://www.dawnsign.com/effective-interpreting-asl-skills-development-study-set), or [Harris Communications](http://www.harriscomm.com/index.php/effective-interpreting-asl-skills-development-study-set.html).)
 * Student handouts containing resources, class assignments, and instructor-selected supplemental readings. [Available from the class schedule](http://) and/or passed out in class, these may be distributed on an infrequent basis. These handouts are important; exam materials will also come from these resources.
 
 Available in the UVU bookstore or on the Internet at a variety of online bookstores and resellers. [See class schedule for links](http://).
@@ -36,25 +36,22 @@ Course final grades are determined by combining both
 
 Most importantly, you should remember that making decisions in interpreting situations or producing interpreting work is really all about efficient and fluent problem solving: identifying and then applying knowledge to resolve communication differences.
 
-Sign-to-Spoken-English Interpreting (ASL 3370) is largely a **skill-based course**; grades are based on demonstrated acumen and ability, not how well you think you interpret and/or your knowledge about interpretation.
+Sign-to-Spoken-English Interpreting is largely a **skill-based course**; grades are based on demonstrated acumen and ability, not how well you think you interpret and/or your knowledge about interpretation.
 
 While some portions of your coursework and exams will test for specific factual who-when-where information (‘remembering’ skills), far less important is your ability to regurgitate facts and figures. Instead, [assignments and exams](http://) are designed to identify how well you internalize principles, cultural and technical knowledge, and process understanding, and then apply them to create solutions to various situations (‘applying’ and ‘analyzing’ skills). [Learn more about higher-level learning at the FAQs page](http://).
 
 [Scoring criteria](http://) are clearly defined on assignment handouts or exams; you’ll know what you need to do to [earn the grade you want](http://). Ultimately, your grade is a reflection of personal effort and internalization of concepts learned in the course.
 
 ### Grading Breakdown
-| A  100–93 | B+ 89–87 | C+ 79–77 | D+ 69–67 | E 59–0 |
-| A- 92–90 | B  86–83 | C  76–73 | D  66–63 |     |
-| B- 82–80 | C- 72–70 | D- 62–60 |     |     |
-
-A  100–93	B+ 89–87	C+ 79–77	D+ 69–67	E  59–0
-A- 92–90	B  86–83	C  76–73	D  66–63	
-B- 82–80	C- 72–70	D- 62–60	
+| A 100–93 | B+ 89–87 | C+ 79–77 | D+ 69–67 | E 59–0 |
+|----------|----------|----------|----------|--------|
+| A- 92–90 | B  86–83 | C  76–73 | D  66–63 |        |
+|          | B- 82–80 | C- 72–70 | D- 62–60 |        |
 
 ### College Policies and Students with Disabilities
 * College policy prohibits children in the classroom or children unattended in the halls. Make whatever arrangements you must in order to comply with this policy.
 * Failure to come to class does not constitute withdrawal from the course. If circumstances make it impossible for you to complete this course, then you must officially withdraw. Otherwise, you may receive a grade at the end of the semester you did not intend.
-* If you have any disability which may impair your ability to successfully complete this course, please contact the [Accessibility Services Department](http://www.uvu.edu/asd/) (WB 146, 863-8747). Academic accommodations are granted for all students who have qualified documented disabilities. Services are coordinated with the student and instructor by the Accessibility Services Department.
+* If you have any disability which may impair your ability to successfully complete this course, please contact the [Accessibility Services Department](http://www.uvu.edu/asd) (WB 146, (801) 863-8747). Academic accommodations are granted for all students who have qualified documented disabilities. Services are coordinated with the student and instructor by the Accessibility Services Department.
 
 ### Course Requirements and Expectations
 ##### These are the instructor’s expectations of you:
@@ -83,4 +80,4 @@ B- 82–80	C- 72–70	D- 62–60
 	* Interpretation is a emotionally and physically demanding (and sometimes draining) profession; [developing the ability to accept discussion and formative feedback about your work](http://) is a recommended goal at this stage in your training. In the spirit of respectful treatment, this also means that evaluations and/or offline discussions of inaccurate, inequivalent, or substandard performance are also open for collegial dialog. This is a great opportunity to receive (somewhat) mentored, external, and professional observations of your work.
 	* This also means, however, that while students can expect in-class feedback on produced work, there isn’t sufficient time to provide diagnostic-level feedback on each assignment, every time.
 
-*Fall 2019* Full disclosure: I may have out-of-state travel responsibilities I am fulfilling this semester. I will inform you about these absences and we will work out contingencies. Thank you in advance for your patience.
+**Fall 2019** Full disclosure: I may have out-of-state travel responsibilities I am fulfilling this semester. I will inform you about these absences and we will work out contingencies. Thank you in advance for your patience.
