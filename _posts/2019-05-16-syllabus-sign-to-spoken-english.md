@@ -1,17 +1,18 @@
 ---
 date: 2019-06-08
-title: aaSyllabus
+title: Syllabus
 categories:
-  - account-settings
+  - Sign-to-Spoken English
 description: "Sign to Spoken English Interpreting (ASL 3370)"
 type: Document
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat:
 
-## Sign to Spoken English Interpreting (ASL 3370)
+##Sign to Spoken English Interpreting (ASL 3370)
 
 >I am not currently teaching Sign to Spoken English Interpreting (ASL3370) this semester. Please note: All information currently available on this site represents work and due dates relevant to a previous semester/course. Please check back during later semesters for updated information on this course. Thank you.
 
+###About This Course
 This course is an introduction to the process and skills required to produce unidirectional signed-to-spoken English language interpretations between Deaf and non-deaf people. Upon successful completion of this course, students should be able to:
 
 * identify and incorporate a best-practice taxonomy of competencies and processes required to produce sign-to-spoken language interpretations
@@ -30,11 +31,10 @@ This course is an introduction to the process and skills required to produce uni
 
 A significant portion of this course requires self-directed efforts (asychronously working with other teammates) and fairly good command of web-based technologies and learning environments (video creation, salient discussion, and reporting skills; we’ll discuss this more in class).
 
-This course requires a one-hour per week lab criteria; students should expect to spend at least an hour a week on skill-building exercises in a language laboratory setting.
+*This course requires a one-hour per week lab criteria*; students should expect to spend at least an hour a week on skill-building exercises in a language laboratory setting.
 
 
-What others have said about this course:
-
+###What others have said about this course:
 “...The feedback from my interpreting in class was so valuable and it allowed me to learn of patterns in my work that I could work on...”
 
 “...This has been my all-time favorite class at UVU. I loved the format of the class and felt like I left class each time with an increased knowledge or confidence in something...”
@@ -47,4 +47,4 @@ What others have said about this course:
 
 “...I learned a lot about processing and dual-tasking. It was helpful when [we] discussed the process that takes place in our brain while interpreting.”
 
-Note: All downloadable files — class notes, syllabi, and other handouts — are saved in PDF formats and require Adobe Acrobat Reader. If the computer you are using does not have Acrobat or the Acrobat browser plugin, [you can download it free](http://http://www.adobe.com/products/acrobat/readstep2.html).
+######Note: All downloadable files — class notes, syllabi, and other handouts — are saved in PDF formats and require Adobe Acrobat Reader. If the computer you are using does not have Acrobat or the Acrobat browser plugin, [you can download it free](http://http://www.adobe.com/products/acrobat/readstep2.html).
