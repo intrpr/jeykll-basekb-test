@@ -44,9 +44,7 @@ While some portions of your coursework and exams will test for specific factual 
 
 ### Grading Breakdown
 | A  100–93 | B+ 89–87 | C+ 79–77 | D+ 69–67 | E 59–0 |
-| --- | --- | --- | --- | --- |
 | A- 92–90 | B  86–83 | C  76–73 | D  66–63 |     |
-| --- | --- | --- | --- | --- |
 | B- 82–80 | C- 72–70 | D- 62–60 |     |     |
 
 A  100–93	B+ 89–87	C+ 79–77	D+ 69–67	E  59–0
