@@ -1,6 +1,6 @@
 ---
 date: 2019-06-08
-title: Syllabus
+title: aaSyllabus
 categories:
   - account-settings
 description: "Sign to Spoken English Interpreting (ASL 3370)"
