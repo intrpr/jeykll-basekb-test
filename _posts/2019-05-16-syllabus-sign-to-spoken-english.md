@@ -1,3 +1,14 @@
+---
+date: 2019-06-08
+title: Syllabus
+categories:
+  - account-settings
+description: "Sign to Spoken English Interpreting (ASL 3370)"
+type: Document
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat:
+
 ## Sign to Spoken English Interpreting (ASL 3370)
 
 >I am not currently teaching Sign to Spoken English Interpreting (ASL3370) this semester. Please note: All information currently available on this site represents work and due dates relevant to a previous semester/course. Please check back during later semesters for updated information on this course. Thank you.
