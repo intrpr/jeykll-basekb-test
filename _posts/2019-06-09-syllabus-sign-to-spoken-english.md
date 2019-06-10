@@ -2,8 +2,8 @@
 date: 2019-06-08
 title: Course Syllabus
 categories:
-  - Sign-to-Spoken English
-description: "Sign to Spoken English Interpreting (ASL 3370)"
+  - Sign-to-Spoken-English
+description: "Sign-to-Spoken-English Interpreting"
 type: Document
 ---
 ## Sign to Spoken English Interpreting
@@ -14,7 +14,7 @@ type: Document
 Instructor: Doug Stringham
 Class Period: TR 7:00–8:40 pm, LA 230
 E-mail: dstringham (at) gmail.com
-###### (You may contact me at any time via e-mail or by arranging a meeting time before or after class. Please no phone calls.)
+(You may contact me at any time via e-mail or by arranging a meeting time before or after class. Please no phone calls.)
 
 ### Required Texts
 Please bring your text, handouts, and notetaking materials to class each day.

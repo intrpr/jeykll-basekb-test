@@ -1,8 +1,9 @@
 ---
 date: 2019-06-08
 title: Attending and listening
-  - Sign-to-Spoken English
-description: "Sign to Spoken English Interpreting (ASL 3370)"
+categories:
+  - Sign-to-Spoken-English
+description: "Sign-to-Spoken-English Interpreting"
 type: Document
 ---
 ## Developing semantic understanding between spoken English and signed languages

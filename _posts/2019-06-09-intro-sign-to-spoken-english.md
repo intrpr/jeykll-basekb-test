@@ -2,8 +2,8 @@
 date: 2019-06-08
 title: Introduction
 categories:
-  - Sign-to-Spoken English
-description: "Sign to Spoken English Interpreting (ASL 3370)"
+  - Sign-to-Spoken-English
+description: "Sign-to-Spoken-English Interpreting"
 type: Document
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat:
@@ -47,4 +47,4 @@ A significant portion of this course requires self-directed efforts (asychronous
 
 “...I learned a lot about processing and dual-tasking. It was helpful when [we] discussed the process that takes place in our brain while interpreting.”
 
-###### Note: All downloadable files — class notes, syllabi, and other handouts — are saved in PDF formats and require Adobe Acrobat Reader. If the computer you are using does not have Acrobat or the Acrobat browser plugin, [you can download it free](http://http://www.adobe.com/products/acrobat/readstep2.html).
+Note: All downloadable files — class notes, syllabi, and other handouts — are saved in PDF formats and require Adobe Acrobat Reader. If the computer you are using does not have Acrobat or the Acrobat browser plugin, [you can download it free](http://http://www.adobe.com/products/acrobat/readstep2.html).

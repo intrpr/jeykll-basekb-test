@@ -2,8 +2,8 @@
 date: 2019-06-08
 title: Contexting interpretive ‘work’ and depersonalizing feedback
 categories:
-  - Sign-to-Spoken English
-description: "Sign to Spoken English Interpreting (ASL 3370)"
+  - Sign-to-Spoken-English
+description: "Sign-to-Spoken-English Interpreting"
 type: Document
 ---
 ## Learning to talk about our work as a function of ‘work,’ not of ‘me’

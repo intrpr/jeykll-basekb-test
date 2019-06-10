@@ -2,8 +2,8 @@
 date: 2019-06-08
 title: Contacting Me
 categories:
-  - Sign-to-Spoken English
-description: "Sign to Spoken English Interpreting (ASL 3370)"
+  - Sign-to-Spoken-English
+description: "Sign-to-Spoken-English Interpreting"
 type: Document
 ---
 ### Contacting Me

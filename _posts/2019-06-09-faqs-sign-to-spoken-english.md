@@ -2,12 +2,12 @@
 date: 2019-06-09
 title: Frequently Asked Questions
 categories:
-  - Sign-to-Spoken English
-description: "Sign to Spoken English Interpreting (ASL 3370)"
+  - Sign-to-Spoken-English
+description: "Sign-to-Spoken-English Interpreting"
 type: Document
 ---
 ### How does this class fit into the rest of the interpreting classes here at UVU?
-ASL3370 is named Sign to Voice Interpreting, focusing on an introduction to unidirectional signed-to-spoken language interpreting between Deaf and nondeaf people. Here’s where it currently fits into the program:
+ASL3370 is named Sign to Spoken English Interpreting, focusing on an introduction to unidirectional signed-to-spoken language interpreting between Deaf and nondeaf people. Here’s where it currently fits into the program:
 
 Course	Availability
 ASL3310: Introduction to Interpreting	Fall
