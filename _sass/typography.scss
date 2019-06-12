@@ -12,6 +12,7 @@ body {
 	font-family: "Open Sans", serif;
 	letterqq-spacing: 0.01rem;
 	font-size: calc( 14px + (26 - 14) * ((100vw - 500px) / 1500)); /* magic font size from https://css-tricks.com/snippets/css/fluid-typography/ css */;
+	font-size: 1em; 
 	line-height: 1.6;
 	color: #3A4145;
 	-webkit-font-feature-settings: 'kern' 1;
